@@ -321,3 +321,5 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+* [Pycharm_Pro_Help](https://www.jetbrains.com/help/pycharm/quick-start-guide.html) Great for Helping understand pycharm IDE
